@@ -1,4 +1,4 @@
 # Door-Security-System
 
 Contribute to design and develop on home security system.
-This device that will alert users when he/she approaching exits.
+Users will get alert when they appoach to the door that set with sensor for detection.
