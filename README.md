@@ -22,7 +22,7 @@ Software apps and online services:
 - Blynk
 
 ## Setup
-![Circuit](./Ultrasonic_security_bb.jpg)
+![Circuit_Schematics](./Ultrasonic_security_bb.jpg)
 
 ## Project Image
 ![Project_image1](./E6FD1936-2693-46A2-AD46-D9BEEBD19A39.JPG)
