@@ -14,7 +14,7 @@ Hardware components:
 - Resistor 10k ohm
 - LED (generic)
 - 9V Battery or 12V Power supply
-- Blynk
+- piezo buzzer (generic)
 
 Software apps and online services:
 - Arduino Web Editor
