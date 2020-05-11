@@ -21,6 +21,7 @@ Software apps and online services:
 - Arduino IDE
 - Blynk
 
-
+## Setup
+![Circuit](./Ultrasonic_security_bb.jpg)
 
 
